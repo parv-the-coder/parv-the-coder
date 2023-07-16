@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parv Shah.</h1>
 <h3 align="center">Enthusiastic 2nd Year Computer Science Engineering Student | Exploring the Boundless World of Technology</h3>
-<img align="right" width="450" src="https://miro.medium.com/v2/resize:fit:1358/0*ygaHmPjQnVmEApdT.gif"> 
+<img align="right" width="450" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjR0NGJxajliaHNodGI4bWlza3Q3aGZiaG1mcGxlcWM3eHV6YzBsMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"> 
 
 [![](https://visitcount.itsvg.in/api?id=parv-the-coder&icon=9&color=0)](https://visitcount.itsvg.in)
 
