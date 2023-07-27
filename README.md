@@ -4,7 +4,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=parv-the-coder&icon=9&color=0)](https://visitcount.itsvg.in)
 
-- 🌱 I’m currently learning **Java,DSA,MERN stack**
+- 🌱 I’m currently learning **DSA,MERN stack**
 
 - 💬 Ask me about **HTML,Python**
 
