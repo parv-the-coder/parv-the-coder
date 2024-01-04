@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA,MERN Stack**
 
-- 💬 Ask me about **HTML,Python**
+- 💬 Ask me about **Java,Python**
 
 - 📫 How to reach me **parvshah1712@gmail.com**
 
