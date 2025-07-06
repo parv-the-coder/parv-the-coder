@@ -20,8 +20,9 @@
 <a href="https://www.codechef.com/users/parv_the_coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="parv_the_coder" height="30" width="40" /></a>
 <a href="https://discord.gg/King1712#0810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="King1712#0810" height="30" width="40" /></a>
   <a href="https://leetcode.com/Parv_the_coder/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="Parv_the_coder" height="30" width="40" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Parv_the_coder" height="30" width="30" />
 </a>
+
 
 </p>
 
